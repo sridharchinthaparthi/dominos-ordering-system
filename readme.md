@@ -29,20 +29,22 @@ A comprehensive pizza ordering system simulation built with Python and SQLite. O
 - Size-based pricing for pizzas
 - Real-time total calculation
 
-## 🚀 Try It Online
+<div align="center">
 
-You can try this ordering system online without installing anything:
+### Don't want to clone? No problem! Run it instantly:
 
-[![Open in Replit](https://replit.com/badge/github/sridahrchinthaparthi/dominos-ordering-system)](https://replit.com/@sridahrchinthaparthi/dominos-ordering-system)
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-green?style=for-the-badge&logo=github)](https://codespaces.new/sridharchinthaparthi/dominos-ordering-system)
 
-Or try it on:
-- [Python Anywhere](https://www.pythonanywhere.com/)
-- [Google Colab](https://colab.research.google.com/)
-- [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+**Perfect for:**
+- 📱 Mobile browsing - Test from your phone!
+- ⚡ Quick exploration - No setup required
+- 🧪 Experimentation - Fork and modify
+
+</div>
 
 ## 📋 Prerequisites
 
-- Python 3.x installed on your system
+- Python 3.10 installed on your system
 - SQLite3 (comes built-in with Python)
 
 ## 🔧 Installation
@@ -302,5 +304,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Give a ⭐️ if you enjoyed this project!
 
 ---
+
 
 **🍕 Enjoy Your Virtual Pizza! 🎉**
